@@ -1,0 +1,5 @@
+{
+  "name": "InstaFlow AI",
+  "description": "An intelligent Instagram companion app that analyzes post URLs using Gemini Search Grounding to extract metadata, generate hashtags, and offer content insights. Includes video file analysis capabilities.",
+  "requestFramePermissions": []
+}
